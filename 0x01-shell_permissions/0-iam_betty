@@ -1,2 +1,4 @@
 #!/bin/bash
-adduser betty
+su betty
+
+
