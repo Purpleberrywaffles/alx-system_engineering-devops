@@ -1,2 +1,2 @@
 #!/bin/bash
-cp | head -16 iacta | tail +16 
+head -16 iacta | tail +16 | cp
