@@ -1,2 +1,2 @@
 #!/bin/bash
-head -16 iacta | tail +16 | cp
+awk 'NR==1' iacta
